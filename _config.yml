@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Nigel Rogasch"
   avatar           : "profile.png"
-  bio              : "Senior Research Fellow <br> Head, Brain Stimulation, Imaging and Cognition group <br> <br> Psychiatry, Adelaide Medical School, University of Adelaide <br> Hopwood Centre for Neurobiology, Lifelong Health Theme, SAHMRI <br> Turner Institute for Brain and Mental Health, School of Psychological Science, Monash University (Adjunct)" 
+  bio              : "Senior Research Fellow <br> <br> Head, Brain Stimulation, Imaging and Cognition group <br> <br> Psychiatry, Adelaide Medical School, University of Adelaide <br> <br> Hopwood Centre for Neurobiology, Lifelong Health Theme, SAHMRI <br> <br> Turner Institute for Brain and Mental Health, School of Psychological Science, Monash University (Adjunct)" 
   location         : "Adelaide, Australia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=nigel+rogasch"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=rogasch+n"
   googlescholar    : "https://scholar.google.com/citations?user=DKUagbUAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
